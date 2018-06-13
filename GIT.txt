@@ -1,0 +1,9 @@
+git add Test.txt(git add -A)
+git status
+git commit -m "Test.txt added"
+git push origin master
+
+git pull origin master
+
+git branch <branch name>
+git checkout <branch name>
